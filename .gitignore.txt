@@ -1,0 +1,3 @@
+# Ignorar appsettings.json
+
+/TaskAutomationTool/appsettings.json
